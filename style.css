@@ -54,14 +54,14 @@ button {
   transition: 0.25s ease-out;
 }
 
-.blue-btn {
-  color: #132a3add;
-  background-color: #dae5f7;
-}
-
 button:hover {
   background-color: #ddd;
   box-shadow: 2px 2px 2px black;
+}
+
+.blue-btn {
+  color: #132a3add;
+  background-color: #dae5f7;
 }
 
 .buttons .equal {
