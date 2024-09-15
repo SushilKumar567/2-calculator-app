@@ -59,6 +59,11 @@ button:hover {
   box-shadow: 2px 2px 2px black;
 }
 
+.red-btn {
+  color: #ce5355;
+  background-color: #dae5f7;
+}
+
 .blue-btn {
   color: #132a3add;
   background-color: #dae5f7;
