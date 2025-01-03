@@ -14,7 +14,7 @@ body main {
 }
 
 .calculator {
-  width: 350px;
+  width: 360px;
   height: 670px;
   border-radius: 25px;
   background-color: #fff;
@@ -31,7 +31,7 @@ body main {
   text-align: center;
   margin-bottom: 17px;
   outline: none;
-  padding: 0 16px;
+  padding: 0 18px;
 }
 
 .buttons {
