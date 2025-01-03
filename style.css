@@ -15,7 +15,7 @@ body main {
 
 .calculator {
   width: 350px;
-  height: 625px;
+  height: 670px;
   border-radius: 25px;
   background-color: #fff;
   overflow: hidden;
@@ -73,7 +73,7 @@ button:hover {
 }
 
 .buttons .equal {
-  height: 155px;
+  height: 158px;
   border-radius: 70px;
   grid-row: 4 / span 2;
   grid-column: 4 / span 1;
