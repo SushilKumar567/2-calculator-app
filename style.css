@@ -15,7 +15,7 @@ body main {
 
 .calculator {
   width: 350px;
-  height: 95%;
+  height: 85%;
   border-radius: 25px;
   background-color: #fff;
   overflow: hidden;
@@ -45,7 +45,7 @@ body main {
 }
 
 button {
-  height: 75px;
+  height: 70px;
   width: 75px;
   color: #282b30;
   background-color: #eff3ff;
