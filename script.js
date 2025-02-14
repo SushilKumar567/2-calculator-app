@@ -1,7 +1,7 @@
 let display = document.querySelector("#display");
 
 const toDisplay = (value) => {
-  display.value = display.value + value;
+  display.value += value;
 };
 
 const clearDisplay = () => {
